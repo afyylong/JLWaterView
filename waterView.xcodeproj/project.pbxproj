@@ -14,6 +14,25 @@
 		13A1A9C71E90D9ED008BCE5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13A1A9C51E90D9ED008BCE5E /* LaunchScreen.storyboard */; };
 		13A1A9D21E90D9ED008BCE5E /* waterViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A1A9D11E90D9ED008BCE5E /* waterViewTests.swift */; };
 		13A1A9DD1E90D9ED008BCE5E /* waterViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A1A9DC1E90D9ED008BCE5E /* waterViewUITests.swift */; };
+		13A1A9EB1E90DA21008BCE5E /* WaterCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A1A9EA1E90DA20008BCE5E /* WaterCollectionViewLayout.swift */; };
+		13A1A9ED1E90DA65008BCE5E /* WaterButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A1A9EC1E90DA65008BCE5E /* WaterButton.swift */; };
+		13A1AA1E1E90DF71008BCE5E /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA0E1E90DF71008BCE5E /* 1.png */; };
+		13A1AA1F1E90DF71008BCE5E /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA0F1E90DF71008BCE5E /* 2.png */; };
+		13A1AA201E90DF71008BCE5E /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA101E90DF71008BCE5E /* 3.png */; };
+		13A1AA221E90DF71008BCE5E /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA121E90DF71008BCE5E /* 5.png */; };
+		13A1AA231E90DF71008BCE5E /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA131E90DF71008BCE5E /* 6.png */; };
+		13A1AA241E90DF71008BCE5E /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA141E90DF71008BCE5E /* 7.png */; };
+		13A1AA251E90DF71008BCE5E /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA151E90DF71008BCE5E /* 8.png */; };
+		13A1AA261E90DF71008BCE5E /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA161E90DF71008BCE5E /* 9.png */; };
+		13A1AA271E90DF71008BCE5E /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA171E90DF71008BCE5E /* 10.png */; };
+		13A1AA281E90DF71008BCE5E /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA181E90DF71008BCE5E /* 11.png */; };
+		13A1AA291E90DF71008BCE5E /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA191E90DF71008BCE5E /* 12.png */; };
+		13A1AA2A1E90DF71008BCE5E /* 13.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA1A1E90DF71008BCE5E /* 13.png */; };
+		13A1AA2B1E90DF71008BCE5E /* 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA1B1E90DF71008BCE5E /* 14.png */; };
+		13A1AA2C1E90DF71008BCE5E /* 15.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA1C1E90DF71008BCE5E /* 15.png */; };
+		13A1AA2D1E90DF71008BCE5E /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA1D1E90DF71008BCE5E /* 16.png */; };
+		13A1AA2F1E90DFB0008BCE5E /* 17.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA2E1E90DFB0008BCE5E /* 17.png */; };
+		13A1AA3F1E925B07008BCE5E /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 13A1AA3E1E925B07008BCE5E /* 4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +66,25 @@
 		13A1A9D81E90D9ED008BCE5E /* waterViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = waterViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13A1A9DC1E90D9ED008BCE5E /* waterViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = waterViewUITests.swift; sourceTree = "<group>"; };
 		13A1A9DE1E90D9ED008BCE5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13A1A9EA1E90DA20008BCE5E /* WaterCollectionViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaterCollectionViewLayout.swift; sourceTree = "<group>"; };
+		13A1A9EC1E90DA65008BCE5E /* WaterButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaterButton.swift; sourceTree = "<group>"; };
+		13A1AA0E1E90DF71008BCE5E /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		13A1AA0F1E90DF71008BCE5E /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		13A1AA101E90DF71008BCE5E /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		13A1AA121E90DF71008BCE5E /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		13A1AA131E90DF71008BCE5E /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		13A1AA141E90DF71008BCE5E /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		13A1AA151E90DF71008BCE5E /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		13A1AA161E90DF71008BCE5E /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		13A1AA171E90DF71008BCE5E /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		13A1AA181E90DF71008BCE5E /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		13A1AA191E90DF71008BCE5E /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
+		13A1AA1A1E90DF71008BCE5E /* 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13.png; sourceTree = "<group>"; };
+		13A1AA1B1E90DF71008BCE5E /* 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 14.png; sourceTree = "<group>"; };
+		13A1AA1C1E90DF71008BCE5E /* 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15.png; sourceTree = "<group>"; };
+		13A1AA1D1E90DF71008BCE5E /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
+		13A1AA2E1E90DFB0008BCE5E /* 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 17.png; sourceTree = "<group>"; };
+		13A1AA3E1E925B07008BCE5E /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +135,27 @@
 		13A1A9BB1E90D9ED008BCE5E /* waterView */ = {
 			isa = PBXGroup;
 			children = (
+				13A1AA2E1E90DFB0008BCE5E /* 17.png */,
+				13A1AA0E1E90DF71008BCE5E /* 1.png */,
+				13A1AA3E1E925B07008BCE5E /* 4.png */,
+				13A1AA101E90DF71008BCE5E /* 3.png */,
+				13A1AA0F1E90DF71008BCE5E /* 2.png */,
+				13A1AA121E90DF71008BCE5E /* 5.png */,
+				13A1AA131E90DF71008BCE5E /* 6.png */,
+				13A1AA141E90DF71008BCE5E /* 7.png */,
+				13A1AA151E90DF71008BCE5E /* 8.png */,
+				13A1AA161E90DF71008BCE5E /* 9.png */,
+				13A1AA171E90DF71008BCE5E /* 10.png */,
+				13A1AA181E90DF71008BCE5E /* 11.png */,
+				13A1AA191E90DF71008BCE5E /* 12.png */,
+				13A1AA1A1E90DF71008BCE5E /* 13.png */,
+				13A1AA1B1E90DF71008BCE5E /* 14.png */,
+				13A1AA1C1E90DF71008BCE5E /* 15.png */,
+				13A1AA1D1E90DF71008BCE5E /* 16.png */,
 				13A1A9BC1E90D9ED008BCE5E /* AppDelegate.swift */,
 				13A1A9BE1E90D9ED008BCE5E /* ViewController.swift */,
+				13A1A9EA1E90DA20008BCE5E /* WaterCollectionViewLayout.swift */,
+				13A1A9EC1E90DA65008BCE5E /* WaterButton.swift */,
 				13A1A9C01E90D9ED008BCE5E /* Main.storyboard */,
 				13A1A9C31E90D9ED008BCE5E /* Assets.xcassets */,
 				13A1A9C51E90D9ED008BCE5E /* LaunchScreen.storyboard */,
@@ -232,9 +289,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				13A1AA291E90DF71008BCE5E /* 12.png in Resources */,
+				13A1AA2D1E90DF71008BCE5E /* 16.png in Resources */,
+				13A1AA271E90DF71008BCE5E /* 10.png in Resources */,
+				13A1AA251E90DF71008BCE5E /* 8.png in Resources */,
 				13A1A9C71E90D9ED008BCE5E /* LaunchScreen.storyboard in Resources */,
+				13A1AA3F1E925B07008BCE5E /* 4.png in Resources */,
+				13A1AA2F1E90DFB0008BCE5E /* 17.png in Resources */,
+				13A1AA1E1E90DF71008BCE5E /* 1.png in Resources */,
+				13A1AA281E90DF71008BCE5E /* 11.png in Resources */,
+				13A1AA231E90DF71008BCE5E /* 6.png in Resources */,
+				13A1AA1F1E90DF71008BCE5E /* 2.png in Resources */,
+				13A1AA2C1E90DF71008BCE5E /* 15.png in Resources */,
+				13A1AA201E90DF71008BCE5E /* 3.png in Resources */,
+				13A1AA221E90DF71008BCE5E /* 5.png in Resources */,
+				13A1AA241E90DF71008BCE5E /* 7.png in Resources */,
+				13A1AA261E90DF71008BCE5E /* 9.png in Resources */,
+				13A1AA2A1E90DF71008BCE5E /* 13.png in Resources */,
 				13A1A9C41E90D9ED008BCE5E /* Assets.xcassets in Resources */,
 				13A1A9C21E90D9ED008BCE5E /* Main.storyboard in Resources */,
+				13A1AA2B1E90DF71008BCE5E /* 14.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +333,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				13A1A9EB1E90DA21008BCE5E /* WaterCollectionViewLayout.swift in Sources */,
 				13A1A9BF1E90D9ED008BCE5E /* ViewController.swift in Sources */,
 				13A1A9BD1E90D9ED008BCE5E /* AppDelegate.swift in Sources */,
+				13A1A9ED1E90DA65008BCE5E /* WaterButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +581,7 @@
 				13A1A9E31E90D9ED008BCE5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		13A1A9E41E90D9ED008BCE5E /* Build configuration list for PBXNativeTarget "waterViewTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +590,7 @@
 				13A1A9E61E90D9ED008BCE5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		13A1A9E71E90D9ED008BCE5E /* Build configuration list for PBXNativeTarget "waterViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +599,7 @@
 				13A1A9E91E90D9ED008BCE5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
